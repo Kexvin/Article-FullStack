@@ -1,0 +1,1 @@
+CREATE DATABASE sentiment_db; 
